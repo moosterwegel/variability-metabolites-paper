@@ -68,5 +68,5 @@ After you have obtained the image, you can launch a container that contains a co
 If you then navigate to the 8787 port (e.g. http://localhost:8787/ in your web browser) on your machine and login with the username `rstudio` and the password you provided earlier (`YOUR_CONTAINER_PASSWORD`), you'll be able to work in an R environment will all the packages and software required to reproduce the statistical analysis. 
 
 # Contact / issues / questions
-If you have any questions, you can open an issue in this repository or email me at max.oosterwegel@gmail.com
+If you have any questions, you can open an issue or start a new discussion in this repository or email me at max.oosterwegel@gmail.com
 
